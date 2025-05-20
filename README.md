@@ -19,3 +19,6 @@ Entre as principais funcionalidades do jogo Super Trunfo com o tema cidades, des
 Além disso, o jogo pode ser personalizado com cidades do próprio estado ou região, o que torna a atividade ainda mais significativa para os alunos. Eles podem inclusive criar suas próprias cartas, pesquisando dados e organizando as informações, o que aprofunda o aprendizado.
 
 Em resumo, o Super Trunfo de Cidades é muito mais do que um jogo. Ele é uma ferramenta pedagógica que contribui para o desenvolvimento cognitivo, social e cultural dos participantes. Combinando conhecimento e diversão, é uma forma eficaz de aprender sobre o mundo de maneira interativa.
+ # Compilar código
+ https://github.com/Layse2007/super-trunfo.git
+
